@@ -316,3 +316,38 @@ Processing by PagesController#about as HTML
 Completed 200 OK in 142ms (Views: 137.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for ::1 at 2016-11-13 23:32:05 +0600
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 4635ms (Views: 4620.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-13 23:32:12 +0600
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 158ms (Views: 155.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for ::1 at 2016-11-13 23:32:13 +0600
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 123ms (Views: 119.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-13 23:32:13 +0600
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 109ms (Views: 106.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for ::1 at 2016-11-13 23:32:14 +0600
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 112ms (Views: 108.9ms | ActiveRecord: 0.0ms)
+
+
